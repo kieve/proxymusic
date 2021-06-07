@@ -29,7 +29,7 @@ import java.io.OutputStream;
 import java.util.Date;
 import java.util.zip.ZipEntry;
 
-import javax.xml.bind.JAXBException;
+import jakarta.xml.bind.JAXBException;
 
 /**
  * Class {@code MxlTest} is meant to test features related to mxl (compressed)

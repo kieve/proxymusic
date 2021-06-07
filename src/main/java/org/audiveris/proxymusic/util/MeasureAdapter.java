@@ -13,7 +13,7 @@ package org.audiveris.proxymusic.util;
 
 import org.audiveris.proxymusic.ScorePartwise.Part.Measure;
 
-import javax.xml.bind.annotation.adapters.XmlAdapter;
+import jakarta.xml.bind.annotation.adapters.XmlAdapter;
 import javax.xml.stream.XMLStreamWriter;
 
 /**

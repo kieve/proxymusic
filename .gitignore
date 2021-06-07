@@ -4,3 +4,6 @@ target/*
 # System files
 .DS_Store
 Thumb.db
+
+# Project files
+*.iml
